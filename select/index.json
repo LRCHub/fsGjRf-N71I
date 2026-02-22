@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Man I Need",
+  "base_artist": "Olivia Dean",
+  "createdAt": "2026-02-22T19:37:02.852910Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All the Man I Need",
+      "artist": "Sister Sledge",
+      "has_synced": false,
+      "path": "select/01_All_the_Man_I_Need_Sister_Sledge.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All The Man I Need",
+      "artist": "Sister Sledge With David Simmons",
+      "has_synced": false,
+      "path": "select/02_All_The_Man_I_Need_Sister_Sledge_With_David_Simmons.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All The Man I Need (With David Simmons)",
+      "artist": "Sister Sledge",
+      "has_synced": false,
+      "path": "select/03_All_The_Man_I_Need_(With_David_Simmons)_Sister_Sledge.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Man I Need",
+      "artist": "Jagwar Ma",
+      "has_synced": true,
+      "path": "select/04_Man_I_Need_Jagwar_Ma.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All the Man I Need",
+      "artist": "Gloria Gaynor",
+      "has_synced": true,
+      "path": "select/05_All_the_Man_I_Need_Gloria_Gaynor.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All the Man I Need",
+      "artist": "Sister Sledge",
+      "has_synced": true,
+      "path": "select/06_All_the_Man_I_Need_Sister_Sledge.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All the Man I Need",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/07_All_the_Man_I_Need_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All the Man I Need",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/08_All_the_Man_I_Need_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All The Man I Need",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/09_All_The_Man_I_Need_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All the Man I Need",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/10_All_the_Man_I_Need_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Man I Need",
+      "artist": "TinkaBelle",
+      "has_synced": true,
+      "path": "select/11_The_Man_I_Need_TinkaBelle.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All the Man I Need",
+      "artist": "Sister Sledge feat. David Simmons",
+      "has_synced": false,
+      "path": "select/12_All_the_Man_I_Need_Sister_Sledge_feat._David_Simmons.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "has_synced": false,
+      "path": "select/pl_01_Man_I_Need_Olivia_Dean.txt"
+    }
+  ]
+}
